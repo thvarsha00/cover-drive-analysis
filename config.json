@@ -1,0 +1,9 @@
+{
+  "thresholds": {
+    "front_elbow_min_deg": 110,
+    "front_elbow_max_deg": 170,
+    "spine_lean_max_deg": 25,
+    "head_knee_horiz_max_norm": 0.045,
+    "front_foot_angle_max_deg": 35
+  }
+}
